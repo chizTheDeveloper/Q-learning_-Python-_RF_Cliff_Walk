@@ -1,5 +1,7 @@
-**CST8509 Lab3 Gymnasium**
-Overview
+**CST8509 Lab3 Gymnasium**  
+
+Overview  
+
 This repository contains completed tasks for the CST8509 Lab3 on Gymnasium. Gymnasium, successor to OpenAI Gym, provides a standard API for Reinforcement Learning Environments. In this lab exercise, we implement a custom Gymnasium environment for the CliffWalking environment and evaluate a selection of Stable-Baselines3 algorithms in that environment.
 
 -**Tasks Completed**
